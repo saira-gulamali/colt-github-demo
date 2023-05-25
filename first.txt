@@ -1,2 +1,3 @@
 first file in conflicts master branch
 ==master addition
+==rossy addition
